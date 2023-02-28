@@ -7,3 +7,5 @@ It's time complexity is O(10*n)
 (10 in the case of numbers larger than unsigned long long)
 
 You can verify time complexity in the number of steps.
+
+Create a file called "numbers.txt" and put there the numbers that you want to sort.
